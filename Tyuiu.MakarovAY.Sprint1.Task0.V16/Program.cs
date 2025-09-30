@@ -10,7 +10,7 @@ namespace Tyuiu.MakarovAY.Sprint1.Task0.V16
             Console.Title = "Спринт #1 | Выполнил: Макаров А. М. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Базовые Навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
             Console.WriteLine("* Выполнил: Макаров А. М.   | РППб-25-1                                   *");
