@@ -7,9 +7,9 @@ namespace Tyuiu.MakarovAY.Sprint1.Task0.V16
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #0 | Выполнил: Макаров А. М. | РППб-25-1";
+            Console.Title = "Спринт #1 | Выполнил: Макаров А. М. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #0                                                               *");
+            Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
