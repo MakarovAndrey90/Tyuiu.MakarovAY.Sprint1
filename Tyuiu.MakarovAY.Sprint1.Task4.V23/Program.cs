@@ -6,13 +6,13 @@ namespace Tyuiu.MakarovAY.Sprint1.Task4.V23
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1 | Выполнил: Макаров А. М. | РППб-25-1";
+            Console.Title = "Спринт #1 | Выполнил: Макаров А. Я. | РППб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые Навыки работы в C#                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
-            Console.WriteLine("* Выполнил: Макаров А. М.   | РППб-25-1                                   *");
+            Console.WriteLine("* Выполнил: Макаров А. Я.   | РППб-25-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
